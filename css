@@ -1,0 +1,32 @@
+#widget {
+width: 300px;
+background-color: #f7f7f7;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+text-align: center;
+font-family: Arial, sans-serif;
+color: #333;
+}
+
+#location {
+font-size: 24px;
+font-weight: bold;
+}
+
+#weather-icon {
+width: 100px;
+height: 100px;
+margin: 20px auto;
+background-size: cover;
+}
+
+#temperature {
+font-size: 36px;
+font-weight: bold;
+}
+
+#description {
+font-size: 16px;
+margin-top: 10px;
+}
